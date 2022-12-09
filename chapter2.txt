@@ -1,1 +1,2 @@
 Hello this is the Chapter 2
+ , This is the second text that I have added
